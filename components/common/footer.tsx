@@ -31,14 +31,14 @@ export default function Footer() {
       <Text>
         Made by{" "}
         <Link
-          href="https://github.com/vsme"
+          href="https://github.com/YShenZe"
           target="_blank"
         >
           <Button
             colorScheme="primary"
             variant="link"
           >
-            vsme
+            梦泽
           </Button>
         </Link>
       </Text>
